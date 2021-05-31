@@ -1,0 +1,71 @@
+<head>
+<title>Page Title</title>
+</head>
+  <style>
+body {
+  background-color: lightblue;
+}
+</style>
+<body>
+
+<h1>Accidentes esperando a suceder</h1>
+<p>Si describe algo o alguien como un accidente a punto de ocurrir, quiere decir que es probable que sea una causa de peligro en el futuro, por ejemplo, porque se encuentra en malas condiciones o se comporta de manera impredecible. Muchos de los edificios de la ciudad son accidentes que esperan suceder.
+</p>
+</body>
+</html>  
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flyricstoliveby.store%2Fproducts%2Fwe-are-accidents-waiting-to-happen-mens-t-dark&psig=AOvVaw1UHmaITSdAoU3P7ZOJVnOJ&ust=1622562750274000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjrzrej9PACFQAAAAAdAAAAABAD" alt="" width="460" height="345">
+
+</body>
+</html> 
+</p> 
+<a href="https://www.facebook.com/AIS.gt">Facebook de colegio</a> 
+</p> 
+<a href="https://www.instagram.com/aisantigua/">Instagram de colegio</a> 
+</p> 
+<a href="https://www.youtube.com/watch?v=0oJ7hKKJo3w">Video de Youtube</a>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 275%;
+
+}
+p  {
+  color: Purple;
+  font-family: courier;
+  font-size: 100%;
+}
+</style>
+</head>
+<body>
+
+
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2> Forms</h2>
+
+<form action="/action_page.php">
+  <label for="fname">Entendiste el tema?:</label><br>
+  <input type="text" id="fname" name="fname" value=""><br>
+  <label for="lname">Te gusto el tema:</label><br>
+  <input type="text" id="lname" name="lname" value=""><br><br> 
+  <label for="fname">Que opinas del tema?:</label><br>
+  <input type="text" id="fname" name="fname" value=""><br>
+  <label for="lname">Crees que el tema esta raro?:</label><br>
+  <input type="text" id="lname" name="lname" value=""><br><br>
+  <input type="submit" value="Submit">
+</form> 
